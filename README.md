@@ -5,6 +5,7 @@
 💻 I’m currently learning Front end development at Spotknack mission 2021.
 
 💬 Ask me about Front end development.
+![image](https://user-images.githubusercontent.com/90905707/136917605-3e8ff082-2387-4476-978b-20a851d81a0d.png)
 
 📫 How to reach me:LinkedIn,Gmail,Twitter
 
